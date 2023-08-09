@@ -1,5 +1,3 @@
-# vue-ulbi
-
 ## Project setup
 ```
 npm install
